@@ -1,5 +1,5 @@
 galat queston not comes output 
-
+code by ritesh
 #include<vector>
  using namespace std;
  int firstOcc( vector<int> & arr , int n, int key){
